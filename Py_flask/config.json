@@ -1,0 +1,15 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_db_uri": "mysql+pymysql://root:@localhost/programmersblog",
+    "Prod_db_uri": "mysql+pymysql://root:@localhost/Prodprogrammersblog",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gitHub_url": "https://github.com/codingthunder",
+    "blog_name": "coding Thunder",
+    "no_of_post": 5,
+    "login_image": "login.svg",
+    "admin_user": "harry",
+    "admin_password": "subscribenow"
+  }
+}
